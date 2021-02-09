@@ -19,16 +19,16 @@ int main(int argc, char * argv[]) {
 
     if(bufsize > BUF_SIZE) {
         fprintf(stderr, "Error: %s max. buffer size is %d\n", argv[0], BUF_SIZE);
-        exit (1);
+        return (1);
     }
 
     if (NULL == src) {
-        exit (2);
+        return (2);
     }
 
     dst = fopen(argv[2], "w");
     if(dst < 0) {
-        exit (3);
+        return (3);
     }
 
     int keep_read = 1;
@@ -46,5 +46,5 @@ int main(int argc, char * argv[]) {
     
     fclose(src);
     fclose(dst);
-    exit (0);
+    return (0);
 }
