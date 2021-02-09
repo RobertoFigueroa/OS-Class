@@ -12,22 +12,21 @@ int main(int argc, char * argv[]) {
     char buf[BUF_SIZE];
     int bufsize;
 
-    if(argc != 4){
-        fprintf(stderr, "Usage: %s <buffer size> <src> <dest>\n", argv[0]);
-        exit (1);
-    }
+    src = fopen(argv[1], "r");
+    fseek(src, 0, SEEK_END);
+    bufsize = ftell(src);
+    fseek(src, 0, SEEK_SET);
 
-    bufsize = atoi(argv[1]);
     if(bufsize > BUF_SIZE) {
         fprintf(stderr, "Error: %s max. buffer size is %d\n", argv[0], BUF_SIZE);
         exit (1);
     }
-    src = fopen(argv[2], "r");
+
     if (NULL == src) {
         exit (2);
     }
 
-    dst = fopen(argv[3], "w");
+    dst = fopen(argv[2], "w");
     if(dst < 0) {
         exit (3);
     }
