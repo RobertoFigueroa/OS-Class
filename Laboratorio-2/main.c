@@ -11,10 +11,18 @@
 
 int main() {
 	int f = fork();
+
+
+    if(f < 0) {
+        fprintf(stderr, "Fork failed");
+        return 1;
+    }
+
+
 	if(f==0){
-		execl("./ipc","./ipc","2", "a", NULL);
+		execl("./ipc","./ipc","10", "a", NULL);
 	} else {
-		execl("./ipc","./ipc","2", "b", NULL);
+		execl("./ipc","./ipc","10", "P", NULL);
 	}
     
 	return (0);
