@@ -89,6 +89,7 @@ int main(int argc, char** argv) {
         char msg_read[buffer_size];
         close(fd[WRITE_END]);
         while(read(fd[READ_END],msg_read, buffer_size) > 0) {
+            ptr += strlen(ptr);
             sprintf(ptr, "%s", (char *) msg_read);
             ptr += strlen(msg_read);
         }

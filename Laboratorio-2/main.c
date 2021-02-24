@@ -24,6 +24,8 @@ int main() {
 	} else {
 		execl("./ipc","./ipc","10", "P", NULL);
 	}
+
+	// usleep(1);
     
 	return (0);
 }
