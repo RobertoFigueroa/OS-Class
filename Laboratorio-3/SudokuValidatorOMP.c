@@ -19,7 +19,9 @@ int grid[9][9];
 
 int checkNumbersColumn(int board[9][9]) {
     int result = 1;
-    #pragma omp parallel for
+    omp_set_num_threads(9);
+    omp_set_nested(1==1);
+    #pragma omp parallel for schedule(dynamic)
     for(int number=1; number<=9;number++) {
         int times=0;
         for(int  i=0;i<9;i++){
@@ -64,7 +66,9 @@ void *checkNumbersClmn(void *param) {
 int checkNumbersRow(int board[9][9]){
     int times;
     int result = 1;
-    #pragma omp parallel for collapse(2)
+    omp_set_nested(1==1);
+    omp_set_num_threads(9);
+    #pragma omp parallel for /*schedule(dynamic)*/
     for(int number=1; number<=9;number++) {
         for(int  i=0;i<9;i++){
             times=0;
@@ -83,7 +87,9 @@ int checkNumbersRow(int board[9][9]){
 
 int checkNumbersArray(int row, int column, int board[9][9]){
     int result = 1;
-    #pragma omp parallel for
+    omp_set_num_threads(9);
+    omp_set_nested(1==1);
+    #pragma omp parallel for schedule(dynamic)
     for(int number=1; number<=9;number++) {
         int times=0;
         for(int  i=row;i<row+3;i++){
@@ -101,8 +107,8 @@ int checkNumbersArray(int row, int column, int board[9][9]){
 }
 
 
-
 int main(int argc, char** argv) {
+    omp_set_num_threads(1);
 
     unsigned char *f;
     pid_t fid;
@@ -131,13 +137,13 @@ int main(int argc, char** argv) {
 
 
     int pid = getpid();  
+    char strPid[20];
+    sprintf(strPid, "%d", pid);
 
     fid = fork();
 
     if(fid == 0){ 
         //child
-        char strPid[20]; //20 should be a nice length for pid
-        sprintf(strPid, "%d", pid);
         printf("El thread en el que se ejecuta el main: %d\n", pid); 
         execlp("ps", "ps", "-p", strPid, "-lLF", NULL);
     }
@@ -155,9 +161,7 @@ int main(int argc, char** argv) {
     }
 
     if(fork() == 0) {
-        printf("Antes de termina el estado de este proceso y sus threads es:"); 
-        char strPid[20]; //20 should be a nice length for pid
-        sprintf(strPid, "%d", pid);
+        printf("zAntes de termina el estado de este proceso y sus threads es:\n"); 
         execlp("ps", "ps", "-p", strPid, "-lLF", NULL);
     } 
     else {
