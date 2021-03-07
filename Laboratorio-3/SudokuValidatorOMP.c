@@ -18,6 +18,7 @@ int grid[9][9];
 
 
 int checkNumbersColumn(int board[9][9]) {
+    int result = 1;
     #pragma omp parallel for
     for(int number=1; number<=9;number++) {
         int times=0;
@@ -29,10 +30,10 @@ int checkNumbersColumn(int board[9][9]) {
             }
         }
         if(times!=1){
-            return 0;
+            result = 0;
         }
     }
-    return 1;
+    return result;
 }
 
 
@@ -41,7 +42,6 @@ void *checkNumbersClmn(void *param) {
     int result = 0;
     int threadid = syscall(SYS_gettid);
     int times;
-    #pragma omp parallel for private(i, j) collapse(3) 
     for(int number=1; number<=9;number++) {
         for(int  i=0;i<9;i++){
             times=0;
@@ -63,7 +63,8 @@ void *checkNumbersClmn(void *param) {
 
 int checkNumbersRow(int board[9][9]){
     int times;
-    #pragma omp parallel for
+    int result = 1;
+    #pragma omp parallel for collapse(2)
     for(int number=1; number<=9;number++) {
         for(int  i=0;i<9;i++){
             times=0;
@@ -73,14 +74,15 @@ int checkNumbersRow(int board[9][9]){
                 }
             }
             if(times!=1){
-                return 0;
+                result = 0;
             }
         }
     }
-    return 1;
+    return result;
 }
 
 int checkNumbersArray(int row, int column, int board[9][9]){
+    int result = 1;
     #pragma omp parallel for
     for(int number=1; number<=9;number++) {
         int times=0;
@@ -92,10 +94,10 @@ int checkNumbersArray(int row, int column, int board[9][9]){
             }
         }
         if(times!=1){
-            return 0;
+            result = 0;
         }
     }
-    return 1;
+    return result;
 }
 
 
@@ -114,7 +116,6 @@ int main(int argc, char** argv) {
     size = s.st_size;
 
     f = (char *) mmap(0,size,PROT_READ, MAP_PRIVATE, fd, 0);
-    #pragma omp parallel for
     for(int i=0; i<9; i++){
         for(int j=1; j<10; j++){
             grid[i][j-1] = f[index]-'0'; //convert number readed as  character into int
@@ -122,10 +123,9 @@ int main(int argc, char** argv) {
         }
     }
 
-    #pragma omp parallel for
     for(int i=0;i<=8;i=i+3){
         if(checkNumbersArray(i, i, grid) == 0){
-            return 0;
+            exit(0);
         }
     }
 
