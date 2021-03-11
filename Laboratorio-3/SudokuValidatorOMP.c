@@ -18,12 +18,13 @@ int grid[9][9];
 
 
 int checkNumbersColumn(int board[9][9]) {
+    int times;
     int result = 1;
     omp_set_num_threads(9);
     omp_set_nested(1==1);
-    #pragma omp parallel for schedule(dynamic)
+    #pragma omp parallel for private(times) //schedule(dynamic)
     for(int number=1; number<=9;number++) {
-        int times=0;
+        times=0;
         for(int  i=0;i<9;i++){
             for(int j=0;j<9;j++){
                 if(board[j][i] == number) {
@@ -44,6 +45,9 @@ void *checkNumbersClmn(void *param) {
     int result = 0;
     int threadid = syscall(SYS_gettid);
     int times;
+    omp_set_nested(1==1);
+    omp_set_num_threads(9);
+    #pragma omp parallel for private(times) //schedule(dynamic)
     for(int number=1; number<=9;number++) {
         for(int  i=0;i<9;i++){
             times=0;
@@ -68,7 +72,7 @@ int checkNumbersRow(int board[9][9]){
     int result = 1;
     omp_set_nested(1==1);
     omp_set_num_threads(9);
-    #pragma omp parallel for /*schedule(dynamic)*/
+    #pragma omp parallel for private(times) schedule(dynamic)
     for(int number=1; number<=9;number++) {
         for(int  i=0;i<9;i++){
             times=0;
@@ -111,7 +115,7 @@ int main(int argc, char** argv) {
     omp_set_num_threads(1);
 
     unsigned char *f;
-    pid_t fid;
+    pid_t fid, f2id;
     pthread_t tid;
     pthread_attr_t attr;
     struct stat s;
@@ -158,15 +162,25 @@ int main(int argc, char** argv) {
         }
         wait(NULL);
 
+        f2id = fork();
+
+        if(f2id < 0) {
+        fprintf(stderr, "Fork failed");
+        return 1;
+        }
+
+        if(f2id == 0) {
+            printf("------>Antes de termina el estado de este proceso y sus threads es:\n"); 
+            execlp("ps", "ps", "-p", strPid, "-lLF", NULL);
+        } 
+
+        else {
+
+            wait(NULL);
+        }
+
     }
 
-    if(fork() == 0) {
-        printf("zAntes de termina el estado de este proceso y sus threads es:\n"); 
-        execlp("ps", "ps", "-p", strPid, "-lLF", NULL);
-    } 
-    else {
-        wait(NULL);
-    }
     munmap(f, size);
     return 0;
 }
