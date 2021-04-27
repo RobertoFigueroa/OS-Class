@@ -1,0 +1,2514 @@
+Initialized monitor
+iniciando programa
+creado threads
+Iniciando thread 35955
+Iniciando iteracion 1
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+Iniciando thread 35954
+Iniciando iteracion 1
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+Iniciando thread 35953
+Iniciando iteracion 1
+35955 --  :) - Recurso usado
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 2
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 2
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 3
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 2
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 4
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 3
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 5
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 4
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 3
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 6
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 5
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 4
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 7
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 6
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 5
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 8
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 7
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 6
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 9
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 8
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 7
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 9
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 10
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 10
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 8
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 11
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 9
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 10
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 11
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 12
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+Iniciando thread 35956
+Iniciando iteracion 1
+Iniciando thread 35957
+Iniciando iteracion 1
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 13
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35953 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 11
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 12
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 14
+35955 --  :) - Recurso usado
+35957 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 12
+35955 -- (!) - Recurso tomado
+35957 -- ( ) - Recurso devuelto
+35955 -- (.) - Usando recurso
+Iniciando iteracion 2
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 13
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 13
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 3
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 14
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 14
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35957 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 15
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 4
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 15
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 16
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 5
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 16
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 17
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 6
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 17
+35953 --  :) - Recurso usado
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 18
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 15
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 7
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 2
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 16
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 8
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 3
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 19
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 9
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 4
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35957 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 20
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 10
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 5
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 21
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 11
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 6
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 22
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 12
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 7
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35957 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 23
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 13
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 8
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 14
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 9
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 15
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 10
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 16
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 11
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 17
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 12
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 18
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 13
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 19
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 14
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 18
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 15
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 16
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 17
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 19
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 17
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 20
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 18
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 21
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 19
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 22
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 20
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 23
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 21
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 24
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 22
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 25
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 23
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 26
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 24
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 27
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 28
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 25
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 29
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 30
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 31
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 32
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 33
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35954 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 34
+35955 -- (!) - Recurso tomado
+Iniciando iteracion 26
+35955 -- (.) - Usando recurso
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 35
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 27
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 36
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 28
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 37
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 29
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 38
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 30
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 39
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 31
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 40
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 32
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 41
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 33
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 42
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 34
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 43
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 35
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 44
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 36
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35954 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 45
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 37
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 46
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 47
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 38
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 48
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 39
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 18
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35954 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 19
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 40
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 20
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 41
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 21
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 42
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 22
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 43
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 23
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 44
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 24
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 45
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 25
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 46
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 26
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 47
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 27
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 48
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 28
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 49
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 29
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 50
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 30
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 51
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 31
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 52
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 32
+35954 --  :) - Recurso usado
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 49
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 53
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 50
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 54
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 51
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 55
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35954 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 52
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 56
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 53
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 57
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 54
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 58
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 55
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 59
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 56
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 60
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 57
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35957 -- (!) - Recurso tomado
+35954 -- ( ) - Recurso devuelto
+35957 -- (.) - Usando recurso
+Iniciando iteracion 61
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 58
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35957 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 59
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 20
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35957 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 60
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 21
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 61
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 22
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 62
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 23
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 63
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 24
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 33
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+35957 --  :) - Recurso usado
+Iniciando iteracion 34
+35956 -- (!) - Recurso tomado
+35957 -- ( ) - Recurso devuelto
+35956 -- (.) - Usando recurso
+Iniciando iteracion 25
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 35
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 26
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 36
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 27
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 37
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 28
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 38
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 29
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 39
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 30
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 40
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 31
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 41
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 32
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 42
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 33
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 43
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 34
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 44
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 35
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 45
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 36
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35956 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 37
+35956 -- ( ) - Recurso devuelto
+35957 -- (!) - Recurso tomado
+Iniciando iteracion 46
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35957 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 47
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 38
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 48
+35957 --  :) - Recurso usado
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 39
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 49
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 40
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 50
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 41
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 51
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 42
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 52
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 43
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 53
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 44
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 54
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 45
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 55
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35957 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 46
+Iniciando iteracion 56
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 47
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 57
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 48
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 58
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 49
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 59
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 50
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 60
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 51
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 61
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 52
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 62
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 53
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 63
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 54
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 64
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 55
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 65
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 56
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 66
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 57
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 67
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 58
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 68
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 59
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 69
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 60
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 70
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 61
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 71
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 72
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 73
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 62
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 74
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 75
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 63
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 76
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 62
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 64
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 77
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 65
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 78
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 66
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 79
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 67
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 80
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 68
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 81
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 69
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 82
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 70
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 83
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 71
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 84
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 72
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 85
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 73
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 86
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 74
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 87
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 88
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 75
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 89
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 76
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 90
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 77
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 91
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 78
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 92
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35956 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 79
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 93
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35956 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 80
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 94
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 81
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35956 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 82
+35956 -- ( ) - Recurso devuelto
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+Iniciando iteracion 95
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 83
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 96
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 84
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 97
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 85
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 98
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 86
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 99
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 87
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+Iniciando iteracion 100
+35956 -- (!) - Recurso tomado
+35956 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 88
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35956 --  :) - Recurso usado
+35956 -- ( ) - Recurso devuelto
+35956 -- Terminando semaforo
+35956 -- Muriendo ...35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 63
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 89
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 64
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 90
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 65
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 91
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 66
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 92
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 67
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 93
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 68
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 94
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 64
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 95
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 65
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 96
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 66
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 97
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 98
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 99
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+Iniciando iteracion 100
+35957 -- (!) - Recurso tomado
+35957 -- (.) - Usando recurso
+35957 --  :) - Recurso usado
+35957 -- ( ) - Recurso devuelto
+35957 -- Terminando semaforo
+35957 -- Muriendo ...35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 69
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 67
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 70
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 68
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 71
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 69
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 72
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 70
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 73
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 71
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 74
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 72
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 75
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 73
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 76
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 74
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 77
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 75
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 78
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 76
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 79
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 77
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 80
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 78
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 81
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 79
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 82
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 80
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 83
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 81
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 84
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 85
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 82
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 83
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 86
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 87
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 84
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 85
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 88
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 89
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 86
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 90
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 87
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 91
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 88
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 92
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 89
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 93
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 90
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 94
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 91
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 95
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 92
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 96
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 93
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 97
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 94
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 98
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 95
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 99
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 96
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+Iniciando iteracion 100
+35954 -- (!) - Recurso tomado
+35954 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 97
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35954 --  :) - Recurso usado
+35954 -- ( ) - Recurso devuelto
+35954 -- Terminando semaforo
+35954 -- Muriendo ...35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 98
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 99
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+Iniciando iteracion 100
+35955 -- (!) - Recurso tomado
+35955 -- (.) - Usando recurso
+35955 --  :) - Recurso usado
+35955 -- ( ) - Recurso devuelto
+35955 -- Terminando semaforo
+35955 -- Muriendo ...35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 24
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 25
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 26
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 27
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 28
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 29
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 30
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 31
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 32
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 33
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 34
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 35
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 36
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 37
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 38
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 39
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 40
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 41
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 42
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 43
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 44
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 45
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 46
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 47
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 48
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 49
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 50
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 51
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 52
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 53
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 54
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 55
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 56
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 57
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 58
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 59
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 60
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 61
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 62
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 63
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 64
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 65
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 66
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 67
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 68
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 69
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 70
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 71
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 72
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 73
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 74
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 75
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 76
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 77
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 78
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 79
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 80
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 81
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 82
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 83
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 84
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 85
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 86
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 87
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 88
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 89
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 90
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 91
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 92
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 93
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 94
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 95
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 96
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 97
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 98
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 99
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+Iniciando iteracion 100
+35953 -- (!) - Recurso tomado
+35953 -- (.) - Usando recurso
+35953 --  :) - Recurso usado
+35953 -- ( ) - Recurso devuelto
+35953 -- Terminando semaforo
+35953 -- Muriendo ...

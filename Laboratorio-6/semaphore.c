@@ -1,18 +1,18 @@
+#include <unistd.h>
 #include <pthread.h>
+#include <semaphore.h>
+#include <sys/syscall.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include <semaphore.h>
 #include <time.h>
-#include <unistd.h>
-#include <sys/syscall.h>
 
-#define _GNU_SOURCE
+#define gettid() syscall(SYS_gettid)
 #define NUM_THREADS 5
 #define MAX_INTERATIONS 100
 
 struct myFile {
     FILE* file;
-};
+}; 
 
 sem_t sem;
 int shared_resources = MAX_INTERATIONS;
@@ -43,14 +43,14 @@ void *resources(void * file){
 
         fprintf(((struct myFile *) file)->file, "%d --  :) - Recurso usado\n", tid);
         
-        sem_post(&sem);
+        sem_post(&sem); 
         
         fprintf(((struct myFile *) file)->file, "%d -- ( ) - Recurso devuelto\n", tid);
         
     }
         
         fprintf(((struct myFile *) file)->file, "%d -- Terminando semaforo\n", tid);
-        fprintf(((struct myFile *) file)->file, "%d -- Muriendo ...", tid);
+        fprintf(((struct myFile *) file)->file, "%d -- Muriendo ...\n", tid);
 
     pthread_exit(0);
 }
@@ -87,5 +87,6 @@ int main(int argc, char *argv[]) {
     }
 
     fclose(fptr); //close file
+    sem_destroy(&sem);
     return 0;
 }
